@@ -1,6 +1,6 @@
-THEME: Resto - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+THEME: Parallel 37 - Momentum Smart Agency
+AUTHOR: tonsofcode
+AUTHOR URI: https://instagrma.com/tonsofcode
 
 
 CREDITS:
