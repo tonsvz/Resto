@@ -1,6 +1,6 @@
 THEME: Parallel 37 - Momentum Smart Agency
 AUTHOR: tonsofcode
-AUTHOR URI: https://instagrma.com/tonsofcode
+AUTHOR URI: https://instagram.com/tonsofcode
 
 
 CREDITS:
